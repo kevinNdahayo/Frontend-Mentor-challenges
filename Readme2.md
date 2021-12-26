@@ -46,4 +46,8 @@ My github repository is "github/KevinNdahayo"
 ### gmail: ndahayokevin1@gmail.com
 ### github: kevinNdahayo
 
+## You want to contribute to projects ????
+feel free to write on those social platforms so that we can keep in touch and 
+make a collaboration project.
+
 ## Happy coding
