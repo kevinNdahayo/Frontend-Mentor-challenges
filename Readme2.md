@@ -50,4 +50,7 @@ My github repository is "github/KevinNdahayo"
 feel free to write on those social platforms so that we can keep in touch and 
 make a collaboration project.
 
+
+## Happy contributing to project and I wish you Merry christmass and happy new year 2022 ! Coders
+
 ## Happy coding
