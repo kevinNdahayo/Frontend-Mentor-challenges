@@ -128,3 +128,14 @@ body {
   font-family: 'poppins', sans-serif;
   letter-spacing: 0.3px;
 }
+
+// laptop design
+
+@media (max-width: 1024px) {
+  .container {
+    gap: 25px;
+  }
+  .row-1 > .description > .description-heading {
+    font-size: 30px;
+  }
+}
