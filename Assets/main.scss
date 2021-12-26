@@ -1,3 +1,4 @@
+// importing a poppins font family from google fonts
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 * {
   margin: 0px;
@@ -129,7 +130,7 @@ body {
   letter-spacing: 0.3px;
 }
 
-// laptop design
+// adding a laptop responsive desing to the app for the enhancement of the view of the users
 
 @media (max-width: 1024px) {
   .container {
@@ -139,3 +140,9 @@ body {
     font-size: 30px;
   }
 }
+
+// adding a tablet responsive design 
+
+// adding a mobile responsive design
+
+
