@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Disclaimer#
+=======
+# Disclaimer 
+>>>>>>> 061bdc6 (Update the readme.md)
 This project is live deployed to vercel and if you want to contribute to various projects 
 and other programming sessions that are helpful you are welcomed
 
@@ -25,6 +29,7 @@ My github repository is "github/KevinNdahayo"
 
 ## Cloning the project to your local machine 
 
+# Cloning the project to your local machine 
 ### Feel free to use the following steps to clone the project to your local machine 
 
 1- Go to github and go to code section and either clone using your terminal or download zip file
@@ -34,5 +39,6 @@ My github repository is "github/KevinNdahayo"
 3- go to your github account and set new repository, Then remote it with your local repo and push changes
 
 4- now you are set then you can start to code and push changes to your github account 
+4- now you are set then you can start to code and push changes to your github account.
 
 ## Happy coding
