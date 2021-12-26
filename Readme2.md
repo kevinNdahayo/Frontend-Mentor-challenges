@@ -26,6 +26,7 @@ My github repository is "github/KevinNdahayo"
 ## Cloning the project to your local machine 
 
 # Cloning the project to your local machine 
+
 ### Feel free to use the following steps to clone the project to your local machine 
 
 1- Go to github and go to code section and either clone using your terminal or download zip file
