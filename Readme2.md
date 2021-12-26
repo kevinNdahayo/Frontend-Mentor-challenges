@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#Disclaimer#
-=======
 # Disclaimer 
->>>>>>> 061bdc6 (Update the readme.md)
 This project is live deployed to vercel and if you want to contribute to various projects 
 and other programming sessions that are helpful you are welcomed
 
