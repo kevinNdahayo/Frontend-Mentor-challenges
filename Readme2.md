@@ -41,7 +41,7 @@ My github repository is "github/KevinNdahayo"
 4- now you are set then you can start to code and push changes to your github account 
 4- now you are set then you can start to code and push changes to your github account.
 
-## Connect with Me 
+## Connect with Me @kevinNdahayo
 
 ### gmail: ndahayokevin1@gmail.com
 ### github: kevinNdahayo
