@@ -20,3 +20,19 @@ Step 3: Clone your fork.
 Step 4: Navigate to your local repository. 
 
 Step 5: Check that your fork is the "origin" remote.
+
+My github repository is "github/KevinNdahayo"
+
+## Cloning the project to your local machine 
+
+### Feel free to use the following steps to clone the project to your local machine 
+
+1- Go to github and go to code section and either clone using your terminal or download zip file
+
+2- use git remote remove origin to remove the git from my own repo
+
+3- go to your github account and set new repository, Then remote it with your local repo and push changes
+
+4- now you are set then you can start to code and push changes to your github account 
+
+## Happy coding
